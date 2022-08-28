@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="center"><strong>Hi this is Shubham @skpawar1305 on telegram <strong></p>
+<p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=skpawar1305&style=flat-square" alt="skpawar1305"></p>
+<p align="center"><img width="100" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
+<p align="center"><a href="https://github.com/skpawar1305"><img src="https://github-readme-stats.vercel.app/api?username=skpawar1305&show_icons=true&theme=highcontrast"></a></p>
+<p align="center"><a href="https://github.com/skpawar1305"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skpawar1305&theme=highcontrast&layout=compact"></a></p>
+
 <!--
 **skpawar1305/skpawar1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
